@@ -1,0 +1,7 @@
+*.index filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+unity/Assignment[[:space:]]1/Library/[[:space:]]Artifacts/46/4685987b39f9a4293c75b7faf0da6fcf filter=lfs diff=lfs merge=lfs -text
+unity/Assignment[[:space:]]1/Library/PackageCache/com.unity.burst@l.6.5/.Runtime/libburst-Ilvm-8.dylib filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
