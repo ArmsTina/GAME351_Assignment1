@@ -41,3 +41,7 @@ Freeware media assets were used from the following sources:
 (4) https://www.videvo.net/royalty-free-sound-effects/
 (5) https://freesound.org/search/
 (6) https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866
+(7) https://assetstore.unity.com/packages/2d/textures-materials/25-free-stylized-textures-grass-ground-floors-walls-more-241895
+(8) https://assetstore.unity.com/packages/3d/environments/historic/low-poly-game-ready-history-village-207553
+(9) https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+(10) https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
